@@ -1,5 +1,9 @@
 .about {
-  color: red;
+  color: blueviolet;
   font-weight: 700;
 }
-
+.id {
+  font-size: 1.5rem; 
+  color: blue; 
+  text-decoration: underline;
+}
