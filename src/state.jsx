@@ -10,7 +10,7 @@ const user = {
 
 const users = {
 	0: { name: "Ev", lastname: "Parker", id: 12 },
-	1: { name: "V", lastname: "Just V", id: 3 },
+	1: { name: "V", lastname: "just V", id: 3 },
 	2: { name: "Judy", lastname: "Alvarez", id: 2 },
 	3: { name: "Panam", lastname: "Palmer", id: 6 },
 	4: { name: "Johny", lastname: "Silverhand", id: 4 },
